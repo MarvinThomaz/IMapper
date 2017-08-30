@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MapResolver", "MapResolver\MapResolver.shproj", "{D2A203A1-E199-4E5F-866B-7EECF1A193FF}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MapResolver\MapResolver.projitems*{d2a203a1-e199-4e5f-866b-7eecf1a193ff}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3D0604-5944-4A7E-8FA7-C7CBFC72F993}
+	EndGlobalSection
+EndGlobal
